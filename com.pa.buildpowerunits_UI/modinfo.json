@@ -1,10 +1,10 @@
 {
   "enabled": true,
   "context": "client",
-  "identifier": "com.startege1.buildpowerunits_UI",
+  "identifier": "com.pa.buildpowerunits_UI",
   "display_name": "powerunits Strategic Icons",
-  "build": "82369",
-  "date": "2015/03/31",
+  "build": "83796",
+  "date": "2015/07/17",
   "description": "icons for the powerunits mod.",
   "category": [
         "in-game",
@@ -12,7 +12,7 @@
     "Strategic-icons"
     ],
   "author": "startege1",
-  "version": "1.0",
+  "version": "1.1.2",
   "signature": "not yet implemented",
   "forum": "",
   "icon": "",
