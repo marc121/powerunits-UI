@@ -10,6 +10,8 @@ $(document).ready(function () {
         self.strategicIcons = ko.observableArray([
             'blip',
 			'bot_sniper1',
+			'bot_spider_adv1',
+			'bot_spider_adv',
 			'bot_tactical_orbital',
 			'land_scout1',
 			'tank_heavy_mortar_klein',
